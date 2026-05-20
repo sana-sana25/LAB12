@@ -1,0 +1,11 @@
+<resources>
+
+    <string
+        name="google_maps_key"
+        translatable="false">
+
+        AIzaSyArmZwU6eXfoUeUi2FvoZ9mt2IM4zYBYaM
+
+    </string>
+
+</resources>
